@@ -8,8 +8,8 @@
   padding-left:10px;
   
 }
-.nav-link{
-  padding-left: 1110px;
+.navlink{
+  padding-left: 1050px;
  
 }
 .a4{
@@ -66,6 +66,11 @@
     text-align: center;
   }
 
+  .navlink{
+    padding-left: 100px;
+    text-align: center;
+   
+  }
   .a2, .a3, .a4 {
     padding-left: 0;
     text-align: center;
@@ -142,18 +147,17 @@
 }
 
 @media (max-width: 576px) {
-  .a1 {
+  /* .a1 {
     padding-left: 0;
     margin-right: 0;
     text-align: center;
     height: auto;
   }
-
-  .a2, .a3, .a4 {
+  /* .a2, .a3, .a4 {
     padding-left: 0;
     padding-right: 0;
     text-align: center;
-  }
+  } */
 
   .a8 {
     margin-top: 20px;

@@ -108,22 +108,22 @@ function Portfolio() {
                 <Navbar expand="lg" className="a1" variant="dark">
                     <Container fluid>
                         <Navbar.Brand href="/" className='a2'>
-                            <h5>Portfolio</h5>
+                            <h5 style={{color:"#3B1E54"}}> Portfolio</h5>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="navbarScroll" />
-                        <Navbar.Collapse id="navbarScroll">
-                            <Nav className='nav-link' navbarScroll>
+                        <Navbar.Collapse id="navbarScroll" className='navlink' >
+                            <Nav  navbarScroll>
                                 <Nav.Link href="/" >
-                                    <h5>Home</h5>
+                                    <h5 className='navclr'>Home</h5>
                                 </Nav.Link>
                                 <Nav.Link href="/Aboutus" >
-                                    <h5>About</h5>
+                                    <h5 className='navclr'>About</h5>
                                 </Nav.Link>
                                 <Nav.Link href="/Project" >
-                                    <h5>Project</h5>
+                                    <h5 className='navclr'>Project</h5>
                                 </Nav.Link>
                                 <Nav.Link href="/Contact" >
-                                    <h5>Contact</h5>
+                                    <h5 className='navclr'>Contact</h5>
                                 </Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
