@@ -68,8 +68,8 @@
   }
 
   .navlink{
-    padding-left: 100px;
-    text-align: center;
+    padding-left: 600px;
+
    
   }
   .a2, .a3, .a4 {
@@ -78,7 +78,7 @@
   }
 
   .a8 {
-    margin-top: 50px;
+    margin-top: 150px;
     margin-left: 0;
     height: 70%;
     width: 80%;
@@ -161,7 +161,7 @@
     height: auto;
   } */
   .navlink{
-    padding-left: -20px;
+    padding-left:60px;
     text-align: center;
  
    
