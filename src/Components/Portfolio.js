@@ -114,16 +114,16 @@ function Portfolio() {
                         <Navbar.Collapse id="navbarScroll" className='navlink' >
                             <Nav  navbarScroll>
                                 <Nav.Link href="/" >
-                                    <h5 className='navclr'>Home</h5>
+                                    <h5 style={{color:"#C62E2E"}}>Home</h5>
                                 </Nav.Link>
                                 <Nav.Link href="/Aboutus" >
-                                    <h5 className='navclr'>About</h5>
+                                    <h5 style={{color:"#C62E2E"}} >About</h5>
                                 </Nav.Link>
                                 <Nav.Link href="/Project" >
-                                    <h5 className='navclr'>Project</h5>
+                                    <h5 style={{color:"#C62E2E"}}>Project</h5>
                                 </Nav.Link>
                                 <Nav.Link href="/Contact" >
-                                    <h5 className='navclr'>Contact</h5>
+                                    <h5 style={{color:"#C62E2E"}}>Contact</h5>
                                 </Nav.Link>
                             </Nav>
                         </Navbar.Collapse>

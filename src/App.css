@@ -86,6 +86,7 @@
 
   .bgvido {
     height: auto;
+    position: sticky;
   }
 }
 .cotnt{
@@ -104,6 +105,11 @@
     color:#FFEADD ;
     margin-top: 20px;
     margin-left:40px ;
+  }
+  .navlink{
+    padding-left: -30px;
+
+   
   }
   .wrd{
     color:#FFEADD ;
@@ -153,6 +159,12 @@
     margin-right: 0;
     text-align: center;
     height: auto;
+  } */
+  .navlink{
+    padding-left: -20px;
+    text-align: center;
+ 
+   
   }
   /* .a2, .a3, .a4 {
     padding-left: 0;
